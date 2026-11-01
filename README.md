@@ -1,2 +1,1 @@
-# GolYar
-manage flowers suffron in session
+GolYar v0.1 - Android project skeleton
